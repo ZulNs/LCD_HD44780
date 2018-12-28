@@ -1,7 +1,7 @@
 # LCD_HD44780
 Arduino library for HD44780 based or compatible LCDs.
 
-##Features:
+## Features:
   - Supports read a character or a string from the screen.
   - Supports editing some text right on the screen (insert and delete a character, backspace, clear line, and new line).
   - Supports cursor movement in all directions (left, right, up, and down, line home, line end, screen home).
