@@ -1,4 +1,7 @@
 # LCD_HD44780
+
+[![arduino-library-badge](https://www.ardu-badge.com/badge/LCD_HD44789.svg?)](https://www.ardu-badge.com/MyLibrary)
+
 Arduino library for HD44780 based or compatible LCDs.
 
 ## Features:
